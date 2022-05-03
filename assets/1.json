@@ -1,0 +1,19 @@
+{
+  "name": "Squirtle",
+  "symbol": "POKE",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3E3kZvwduqspgYYT6w8jyemo4ZRF6do7qcpanmK9jc5Q",
+        "share": 100
+      }
+    ]
+  }
+}

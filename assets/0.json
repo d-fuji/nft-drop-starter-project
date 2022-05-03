@@ -1,0 +1,19 @@
+{
+  "name": "Bulbasaur",
+  "symbol": "POKE",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3E3kZvwduqspgYYT6w8jyemo4ZRF6do7qcpanmK9jc5Q",
+        "share": 100
+      }
+    ]
+  }
+}
